@@ -12,3 +12,6 @@ This is a good example of [my code](https://gist.github.com/Beast-Leon/c6a497b5c
 
 ### Colab references
 This is a good exmplae of [colab example](https://github.com/Beast-Leon/technical-discussion/blob/main/coursera1.ipynb)
+
+### Image
+This is a good example of image [image](https://github.com/Beast-Leon/technical-discussion/issues/1)
